@@ -1,0 +1,1 @@
+// TypeScript DTO (Data Transfer Object) 타입 정의

@@ -1,0 +1,1 @@
+// JOI, Zod 또는 swagger 스키마 정의
